@@ -101,7 +101,7 @@ body {
     .circle1::after {
         content: '';
         position: absolute;
-        top: 645px;
+        top: 575px;
         left: 50%;
         width: 15px;
         height: 15px;
@@ -113,7 +113,7 @@ body {
     .circle2::after {
         content: '';
         position: absolute;
-        top: 645px;
+        top: 575px;
         left: 50%;
         width: 15px;
         height: 15px;
@@ -125,7 +125,7 @@ body {
     .circle3::after {
         content: '';
         position: absolute;
-        top: 645px;
+        top: 575px;
         left: 50%;
         width: 15px;
         height: 15px;
@@ -137,7 +137,7 @@ body {
     .circle4::after {
         content: '';
         position: absolute;
-        top: 645px;
+        top: 575px;
         left: 50%;
         width: 15px;
         height: 15px;
